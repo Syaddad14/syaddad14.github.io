@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portofolio",
-    "currentPage": "Kontak.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,11 +36,11 @@
     "siteFonts": [],
     "favicon": "",
     "": "on",
-    "robotsSwitcher": true,
-    "sitemapSwitcher": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
     "sitemapSwitcherAuto": true,
-    "siteUrl": "http://zzrgamer.com",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "siteUrl": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "uniqCompNum": 40,
     "versionPublish": "4.11.4"
   },
