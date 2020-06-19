@@ -1182,31 +1182,29 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
-.cid-s2jZvrKGuu {
+.cid-s2k4Ba0VIM {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #232323;
 }
-.cid-s2jZvrKGuu .testimonial-text {
+.cid-s2k4Ba0VIM .testimonial-text {
   font-style: italic;
+  color: #ffffff;
   font-weight: 300;
 }
-.cid-s2jZvrKGuu .mbr-author-name {
+.cid-s2k4Ba0VIM .mbr-author-name {
   font-weight: bold;
+  color: #ffffff;
 }
-.cid-s2jZvrKGuu .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
+.cid-s2k4Ba0VIM .mbr-author-desc {
+  color: #232;
 }
 @media (max-width: 991px) {
-  .cid-s2jZvrKGuu .mbr-figure,
-  .cid-s2jZvrKGuu img {
+  .cid-s2k4Ba0VIM .mbr-figure,
+  .cid-s2k4Ba0VIM img {
     max-height: 300px;
     width: auto;
     margin: auto;
-  }
-  .cid-s2jZvrKGuu .media-content {
-    padding-top: 1.5rem !important;
   }
 }
 .cid-rHYlfCGpyJ {
