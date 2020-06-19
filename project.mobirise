@@ -617,12 +617,12 @@
             },
             ".testimonial-text": {
               "font-style": "italic",
-              "color": "#ffffff",
+              "color": "#232323",
               "font-weight": "300"
             },
             ".mbr-author-name": {
               "font-weight": "bold",
-              "color": "#ffffff"
+              "color": "#232323"
             },
             ".mbr-author-desc": {
               "color": "#232"
