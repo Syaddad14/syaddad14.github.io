@@ -1183,18 +1183,20 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s2k5WRp8AX {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 75px;
+  padding-bottom: 75px;
   background-color: #232323;
 }
 .cid-s2k5WRp8AX .testimonial-text {
   font-style: italic;
   color: #232323;
   font-weight: 300;
+  text-align: left;
 }
 .cid-s2k5WRp8AX .mbr-author-name {
   font-weight: bold;
   color: #232323;
+  text-align: center;
 }
 .cid-s2k5WRp8AX .mbr-author-desc {
   color: #232;
