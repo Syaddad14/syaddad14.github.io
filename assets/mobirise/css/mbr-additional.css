@@ -1182,6 +1182,31 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
+.cid-s2k5WRp8AX {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-s2k5WRp8AX .testimonial-text {
+  font-style: italic;
+  color: #ffffff;
+  font-weight: 300;
+}
+.cid-s2k5WRp8AX .mbr-author-name {
+  font-weight: bold;
+  color: #ffffff;
+}
+.cid-s2k5WRp8AX .mbr-author-desc {
+  color: #232;
+}
+@media (max-width: 991px) {
+  .cid-s2k5WRp8AX .mbr-figure,
+  .cid-s2k5WRp8AX img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+}
 .cid-rHYlfCGpyJ {
   padding-top: 30px;
   padding-bottom: 30px;
