@@ -1182,32 +1182,90 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
-.cid-s2k5WRp8AX {
-  padding-top: 75px;
-  padding-bottom: 75px;
+.cid-s2k7QMNfnd {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #232323;
 }
-.cid-s2k5WRp8AX .testimonial-text {
-  font-style: italic;
-  color: #232323;
-  font-weight: 300;
+.cid-s2k7QMNfnd h2 {
   text-align: left;
 }
-.cid-s2k5WRp8AX .mbr-author-name {
-  font-weight: bold;
-  color: #232323;
-  text-align: center;
+.cid-s2k7QMNfnd h4 {
+  text-align: left;
+  font-weight: 500;
 }
-.cid-s2k5WRp8AX .mbr-author-desc {
-  color: #232;
+.cid-s2k7QMNfnd p {
+  color: #767676;
+  text-align: left;
+}
+.cid-s2k7QMNfnd .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-s2k7QMNfnd .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-s2k7QMNfnd .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-s2k7QMNfnd .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-s2k7QMNfnd .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-s2k7QMNfnd .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-s2k7QMNfnd .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-s2k7QMNfnd .media-container-row {
+    -webkit-flex-direction: row-reverse;
+  }
 }
 @media (max-width: 991px) {
-  .cid-s2k5WRp8AX .mbr-figure,
-  .cid-s2k5WRp8AX img {
-    max-height: 300px;
-    width: auto;
-    margin: auto;
+  .cid-s2k7QMNfnd .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
   }
+  .cid-s2k7QMNfnd .media-container-row {
+    -webkit-flex-direction: column-reverse;
+  }
+}
+@media (max-width: 300px) {
+  .cid-s2k7QMNfnd .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-s2k7QMNfnd H2 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s2k7QMNfnd .mbr-text {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s2k7QMNfnd H4 {
+  color: #ffffff;
 }
 .cid-rHYlfCGpyJ {
   padding-top: 30px;
