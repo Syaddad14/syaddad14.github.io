@@ -2768,6 +2768,49 @@ section.lazy-placeholder:after {
     -webkit-flex: 0 0 20%;
   }
 }
+.cid-s3yk8JMNGf {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s3yk8JMNGf .card-img {
+  background-color: #fff;
+}
+.cid-s3yk8JMNGf .card-box {
+  padding: 2rem;
+  background-color: #232323;
+}
+.cid-s3yk8JMNGf h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s3yk8JMNGf p {
+  text-align: left;
+}
+.cid-s3yk8JMNGf .mbr-text {
+  color: #ffffff;
+}
+.cid-s3yk8JMNGf .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s3yk8JMNGf .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-s3yk8JMNGf .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-s3yk8JMNGf .card-title {
+  color: #ffffff;
+}
 .cid-s0c8cEt1uu {
   padding-top: 90px;
   padding-bottom: 90px;
