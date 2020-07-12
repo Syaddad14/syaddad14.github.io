@@ -2811,6 +2811,46 @@ section.lazy-placeholder:after {
 .cid-s3yk8JMNGf .card-title {
   color: #ffffff;
 }
+.cid-s4uqiQ06w0 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
+}
+.cid-s4uqiQ06w0 .card-img {
+  background-color: #fff;
+}
+.cid-s4uqiQ06w0 .card-box {
+  padding: 2rem;
+  background-color: #efefef;
+}
+.cid-s4uqiQ06w0 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s4uqiQ06w0 p {
+  text-align: left;
+}
+.cid-s4uqiQ06w0 .mbr-text {
+  color: #767676;
+}
+.cid-s4uqiQ06w0 .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s4uqiQ06w0 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-s4uqiQ06w0 .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
 .cid-s0c8cEt1uu {
   padding-top: 90px;
   padding-bottom: 90px;
